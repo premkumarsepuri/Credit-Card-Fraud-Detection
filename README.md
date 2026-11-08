@@ -25,8 +25,10 @@ class imbalance
 used PR-AUC(precision-Recall Area Under Curve)
 
 ACcuracy:-
-Test- 0.86(After hyper parameter tunning)
+Test accuracy:99.5%
+Test PR-AUC- 0.86%(After hyper parameter tunning)
 
+PR-AUC measure how ell the model ranks fraud cases across the thresholds and its the more honest number for your imbalanced data
 
 <img width="590" height="396" alt="Screenshot 2026-11-07 at 5 29 51 PM" src="https://github.com/user-attachments/assets/59d948ec-ead0-43f1-aab9-eca9788cc2d5" />
 <img width="434" height="335" alt="Screenshot 2026-11-07 at 5 27 18 PM" src="https://github.com/user-attachments/assets/56f637ae-a016-48b3-9331-7d1f9495cac2" />
